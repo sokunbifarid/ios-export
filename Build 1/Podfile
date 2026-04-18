@@ -1,0 +1,15 @@
+source 'https://cdn.cocoapods.org/'
+
+platform :ios, '15.0'
+
+target 'UnityFramework' do
+  pod 'FBSDKCoreKit', '~> 18.0.0'
+  pod 'FBSDKCoreKit_Basics', '~> 18.0.0'
+  pod 'FBSDKGamingServicesKit', '~> 18.0.0'
+  pod 'FBSDKLoginKit', '~> 18.0.0'
+  pod 'FBSDKShareKit', '~> 18.0.0'
+  pod 'GoogleSignIn', '~> 9.0.0'
+end
+target 'Unity-iPhone' do
+end
+use_frameworks! :linkage => :static

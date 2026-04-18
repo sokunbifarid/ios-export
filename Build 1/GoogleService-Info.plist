@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244350860283-vslr9qp7hsehd5bur68v5mb8eaa9odib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244350860283-vslr9qp7hsehd5bur68v5mb8eaa9odib</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>244350860283-629mmaib881riinf41tfa2pviqkr1k12.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrZ_nHY8vin2yilTZo_tfxniVDtQXzXbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244350860283</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whotafrica</string>
+	<key>PROJECT_ID</key>
+	<string>whotafrica-1d4ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whotafrica-1d4ce.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244350860283:ios:5cbee6a5d841624a04695e</string>
+	<key>DATABASE_URL</key>
+	<string>https://whotafrica-1d4ce.firebaseio.com</string>
+</dict>
+</plist>

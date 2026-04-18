@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "244350860283",
+    "firebase_url": "https://whotafrica-1d4ce.firebaseio.com",
+    "project_id": "whotafrica-1d4ce",
+    "storage_bucket": "whotafrica-1d4ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244350860283:android:263a035c495def0304695e",
+        "android_client_info": {
+          "package_name": "com.whotafrica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244350860283-ddsdv6vp4umiutt091958ur3124k9inn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whotafrica",
+            "certificate_hash": "d21c0b32c147c5408845dd5617446ff0ac7fbe33"
+          }
+        },
+        {
+          "client_id": "244350860283-lhcb3ipcm2akj1krhu14dh85fopme9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMbIWLebO2zuGH8nfhZJJWc4DSGTyFwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244350860283-lhcb3ipcm2akj1krhu14dh85fopme9id.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244350860283-vslr9qp7hsehd5bur68v5mb8eaa9odib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whotafrica",
+                "app_store_id": "1491486672"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
